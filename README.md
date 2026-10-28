@@ -59,54 +59,6 @@ Alongside hands-on development, I've taken technical leadership responsibilities
 
 <sub>ALSO FAMILIAR WITH &nbsp; / &nbsp; PHP · Java · Adobe Creative Suite</sub>
 
-### SELECTED WORK
-
-<sub>REAL PRODUCTS. REAL CONSTRAINTS. END-TO-END CONTRIBUTIONS.</sub>
-
-#### [Crafterlity - Web & mobile product ecosystem ↗](https://www.lewistina.com/fr/portfolio/crafterlity-mobile)
-
-**Technical direction · Mobile · API · Infrastructure**
-
-Helped shape and build a platform connecting people with construction professionals. Worked across the React Native app, Python/FastAPI back-end, payments, notifications, asynchronous jobs, and Docker-based deployment - with a central role in architectural decisions in a three-person startup team.
-
-`React Native` `Expo` `TypeScript` `Python` `FastAPI` `PostgreSQL` `Redis` `Celery` `Docker` `Stripe`
-
-#### [JobM V2 - Enterprise monitoring & automation ↗](https://www.lewistina.com/fr/portfolio/jobm)
-
-**Full-stack modernization · APIs · Business logic**
-
-Contributed to modernizing an enterprise platform for monitoring automated jobs. Reworked complex business workflows into clearer interfaces, helped evolve the API and rule engine, and worked with a data architecture built around Tarantool.
-
-`Next.js` `React` `TypeScript` `Node.js` `Fastify` `Tarantool` `TypeORM` `Docker`
-
-#### FactAuto - Invoicing SaaS
-
-**Product ownership · Full-stack · Web & mobile**
-
-Building an independent invoicing product from the ground up with another developer. I drive product direction and major technical decisions while contributing to the web experience, mobile app, APIs, and the product's ongoing evolution toward electronic invoicing needs.
-
-`React` `Flutter` `Dart` `Python` `REST APIs` `Product Architecture`
-
-#### [RemovIt - Image-processing platform ↗](https://www.lewistina.com/fr/portfolio/removit)
-
-**Web engineering · Performance · Supporting services**
-
-Designed and developed the front-end for a professional image-processing platform, including customer journeys, order tracking, and API-facing pages. Built supporting Node.js services for multilingual transactional emails and selected customer-data workflows.
-
-`Next.js` `React` `TypeScript` `Node.js` `Express` `Canvas API` `i18n`
-
-#### [Alwan Color Expertise - Shared interfaces & migration ↗](https://www.lewistina.com/fr/portfolio/ach)
-
-**React / Next.js reference · Component architecture**
-
-Helped modernize a suite of color-management tools for the web, collaborating with the CTO on React/Next.js decisions and building shared TypeScript/Storybook components across five applications.
-
-`React` `Next.js` `TypeScript` `Storybook` `Design Systems`
-
-**Also worked on:** Naam, a mobile/tablet property-inspection app built with React Native/Expo, with a focus on field workflows and reusable UI components.
-
-[**View more case studies ↗**](https://www.lewistina.com/fr/portfolio)
-
 ### HOW I LIKE TO BUILD
 
 - **Start with the problem.** Understand the users, constraints, and business goals before choosing tools.
